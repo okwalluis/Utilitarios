@@ -1,0 +1,10 @@
+For that, follow these steps:
+
+1- Initialise with git: git init
+
+2- Get the app name: heroku apps
+
+3- Add remote:
+
+heroku git:remote -a your_app_name
+Fluently go with your heroku commands :)
